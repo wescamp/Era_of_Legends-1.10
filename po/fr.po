@@ -1,26 +1,28 @@
+# Guillaume Pascal <guillaume.pascal43@laposte.net>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: Era_of_Legends-1.10\n"
+"Project-Id-Version: branch 1.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-10-12 18:28-0400\n"
-"PO-Revision-Date: 2012-06-13 15:22-0400\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2012-10-27 18:41+0200\n"
+"Last-Translator: Guillaume Pascal <guillaume.pascal43@laposte.net>\n"
+"Language-Team: French\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
 
 #. [era]: id=era_of_legends
 #: Era_of_Legends/era.cfg:5
 msgid "Era of Legends"
-msgstr ""
+msgstr "Ère des Légendes"
 
 #. [unit_type]: id=EoL Orcish High Warlord, race=orc
 #: Era_of_Legends/units/Orcish_High_Warlord.cfg:4
 msgid "Orcish High Warlord"
-msgstr ""
+msgstr "Haut Seigneur de Guerre Orc"
 
 #. [unit_type]: id=EoL Orcish High Warlord, race=orc
 #: Era_of_Legends/units/Orcish_High_Warlord.cfg:25
@@ -29,16 +31,19 @@ msgid ""
 "orc is feared and respected by all other orcs, and his rule is never "
 "challenged."
 msgstr ""
+"Rarement, un orc apparaîtra doté d'une force et d'une ruse légendaires. Un "
+"tel orc est craint et respecté par tous les autres orcs, et son règne n'est "
+"jamais contesté."
 
 #. [attack]: type=blade
 #: Era_of_Legends/units/Orcish_High_Warlord.cfg:43
 msgid "greatsword"
-msgstr ""
+msgstr "grande épée"
 
 #. [attack]: type=pierce
 #: Era_of_Legends/units/Orcish_High_Warlord.cfg:52
 msgid "bow"
-msgstr ""
+msgstr "arc"
 
 #. [message]: speaker=narrator
 #: Era_of_Legends/utils.cfg:21
