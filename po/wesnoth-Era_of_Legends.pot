@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Era_of_Legends-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-13 10:22-0400\n"
+"POT-Creation-Date: 2014-02-17 00:33+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -36,7 +36,7 @@ msgid "bow"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Era_of_Legends/utils.cfg:22
+#: ./Era_of_Legends/utils.cfg:34
 msgid ""
 "Welcome to Era of Legends.\n"
 " \n"

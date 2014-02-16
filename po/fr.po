@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: branch 1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-13 10:22-0400\n"
+"POT-Creation-Date: 2014-02-17 00:33+0100\n"
 "PO-Revision-Date: 2012-10-27 18:41+0200\n"
 "Last-Translator: Guillaume Pascal <guillaume.pascal43@laposte.net>\n"
 "Language-Team: French\n"
@@ -46,7 +46,7 @@ msgid "bow"
 msgstr "arc"
 
 #. [message]: speaker=narrator
-#: Era_of_Legends/utils.cfg:22
+#: Era_of_Legends/utils.cfg:34
 msgid ""
 "Welcome to Era of Legends.\n"
 " \n"
